@@ -1,0 +1,19 @@
+header
+{background-color: #DA70D6;
+  font-family: Garamond;
+  font-size: 2.5em;
+}
+aside {
+  width: 30%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 250px;
+  margin-right: 4px;
+  float: right;
+  font-family:  Garamond;
+}
+footer
+{background-color: #FFB6C1;
+  font-family: Garamond;
+  font-size: 1em;
+}
