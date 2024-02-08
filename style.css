@@ -1,0 +1,85 @@
+p {}
+#haha {
+  text-align: center;
+  color: purple;
+  font-size: 40px;
+}
+#Pancake {
+  	text-align: center;
+  	color: ForestGreen;
+    font-size: 20px;
+}
+#Waffle {
+  	text-align: center;
+    color: MediumVioletRed;
+}
+#Egg {
+  	text-align: right;
+    color: DeepPink;
+}
+#Toast {
+  	text-align: left;
+  	color: CornflowerBlue;
+}
+#Juice {
+  	text-align: right;
+  	color: purple;
+}
+#Coffee {
+  	text-align: center;
+  	color: orange;
+    font-size: 23px
+}
+#Bacon {
+    text-align: center;
+    color: Black;
+    font-size: 40px
+}
+#Sausage {
+    text-align: left;
+    color: RebeccaPurple;
+    font-size: 18px;
+}
+#Syrup {
+    text-align: center;
+    color: magenta;
+    font-size: 50px
+}
+#Cereal {
+    text-align: center;
+    color: lawngreen;
+    font-size: 10px;
+}
+#Fruit {
+    text-align: center;
+    color: Sienna;
+    font-size: 60px;
+}
+/* wow, sienna is lowkey an ugly color, no hate tho*/
+#title {
+  	text-align: center;
+  	color: plum;
+    font-size: 100px;
+}
+#Burger {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+#Burger td, #Burger th {
+  border: 3px solid #ddd;
+  padding: 10px;
+}
+
+#Burger tr:nth-child(even){background-color: #f2f2f2;}
+
+#Burger tr:hover {background-color: #B0C4DE;}
+
+#Burger th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #008B8B;
+  color: white;
+}
